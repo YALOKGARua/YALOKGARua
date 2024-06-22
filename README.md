@@ -5,3 +5,4 @@ section .data
     profession db 'Programmer', 0
     skills db 'Assembly, C++, Python, lua', 0
     projects db 'OS kernel, Compiler, Game engine', 0
+```
