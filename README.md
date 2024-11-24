@@ -41,6 +41,7 @@ Hello! I'm **Nicholas**, a passionate developer and problem-solver with a strong
 - **Codingame Certification**  
   - [Certification Python](https://www.codingame.com/certification/IU3cs0eHwj4OAuelIXqx6Q)
   - [Certification C++](https://www.codingame.com/certification/y2r62YZM71kl7aK_BWi-cQ)
+  - [Certification LUA](https://www.codingame.com/certification/s8XlJALgP4vsNzmOz7jKgg)
 
 ---
 
