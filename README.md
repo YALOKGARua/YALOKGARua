@@ -39,7 +39,7 @@ Hello! I'm **Nicholas**, a passionate developer and problem-solver with a strong
 
 ## 📜 Certifications  
 - **C++ Programming Certification**
--  [Certification (Python3)]([[https://github.com/YourUsername/YourRepo/raw/main/Certification%20(Python3).pdf](https://github.com/YALOKGARua/My-certificates/blob/main/Certification%20(Python3).pdf](https://github.com/YALOKGARua/My-certificates/blob/main/Certification%20(C%2B%2B).pdf))
+-  [Certification (C++)]([[https://github.com/YourUsername/YourRepo/raw/main/Certification%20(Python3).pdf](https://github.com/YALOKGARua/My-certificates/blob/main/Certification%20(Python3).pdf](https://github.com/YALOKGARua/My-certificates/blob/main/Certification%20(C%2B%2B).pdf))
 - **Python Programming Certification**  
   - [Certification (Python3)]([https://github.com/YourUsername/YourRepo/raw/main/Certification%20(Python3).pdf](https://github.com/YALOKGARua/My-certificates/blob/main/Certification%20(Python3).pdf))
 - **Codingame Certification**  
