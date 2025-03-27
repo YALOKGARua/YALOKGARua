@@ -1,7 +1,4 @@
 # Nicholas' Profile
-
-![Profile Banner](https://via.placeholder.com/800x200?text=Welcome+to+My+Profile)
-
 ## 👋 About Me  
 Hello! I'm **Nicholas**, a passionate developer and problem-solver with a strong interest in system programming, reverse engineering, and quantum computing. I enjoy tackling complex challenges and finding elegant solutions through code.
 
