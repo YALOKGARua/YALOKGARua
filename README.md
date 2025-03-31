@@ -44,7 +44,7 @@ Hello! I'm **Nicholas**, a passionate developer and problem-solver with a strong
 
 ## 📡 Connect with Me  
 - **Discord**: [yalokgar](#)
-- **LinkedIn**: [https://www.linkedin.com/in/%D0%BC%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0-%D0%B3%D0%B0%D1%80%D0%B0%D0%BD%D1%96%D0%BD-1b486033a/](#)
+- **LinkedIn**: [https://www.linkedin.com/in/%D0%BC%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0-%D0%B3%D0%B0%D1%80%D0%B0%D0%BD%D1%96%D0%BD-1b486033a/]
 - **Email**: [yalokgar@gmail.com]
 
 ---
