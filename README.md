@@ -30,7 +30,7 @@ Hello! I'm **Nicholas**, a passionate developer and problem-solver with a strong
 ## 🌍 Languages I Speak  
 - **Ukrainian**  
 - **English**  
-- **Dutch**
+- **Deutsch**
 
 ---
 
