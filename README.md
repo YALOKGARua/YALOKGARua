@@ -22,6 +22,27 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</div>
+
+## 💀 Offensive Security Arsenal
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Penetration_Testing-⚔️-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/Exploit_Development-💣-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/Malware_Analysis-🦠-00FF00?style=flat-square&labelColor=000000"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Red_Teaming-🎯-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/Zero_Day_Research-🔍-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/Social_Engineering-🎭-00FF00?style=flat-square&labelColor=000000"/></td>
+    </tr>
+  </table>
+</div>
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -37,6 +58,17 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,mongodb,postgres,redis,kafka&theme=dark&perline=6" /><br>
   <i>AWS • Azure • MongoDB • PostgreSQL • Redis • Kafka</i>
 </div>
+
+## 🎯 Current Operations
+
+\`\`\`assembly
+section .data
+    operations db "[ ] Advanced Persistent Threat Research", 0x0A
+              db "[ ] Zero-Day Vulnerability Discovery", 0x0A
+              db "[ ] Quantum Cryptography Implementation", 0x0A
+              db "[ ] Neural Network Defense Systems", 0x0A
+              db "[ ] Blockchain Security Protocol Development", 0x0A
+\`\`\`
 
 ## 🛡️ Featured Projects
 
@@ -130,6 +162,18 @@
   <a href="mailto:yalokgar@gmail.com">
     <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email"/>
   </a>
+</div>
+
+## 🔒 Security Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/OSCP-Offensive_Security-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/CISSP-Security_Professional-00FF00?style=flat-square&labelColor=000000"/></td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
