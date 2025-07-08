@@ -1,22 +1,22 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0057B8&height=200&section=header&text=YALOKGARua&fontColor=FFD700&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20System%20Architect%20|%20Developer&descAlignY=60&descAlign=50" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=YALOKGARua&fontColor=00FF00&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20System%20Architect%20|%20Developer&descAlignY=60&descAlign=50" width="100%" alt="Header"/>
   
   <div>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=500&lines=Привіт!+I'm+from+Ukraine;Full-Stack+Developer;Software+Architecture+Designer;High-Performance+Systems+Engineer" alt="Typing SVG" />
     </a>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=YALOKGARua&style=for-the-badge&color=0057B8&labelColor=FFD700" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=YALOKGARua&style=for-the-badge&color=00FF00&labelColor=000000" alt="Profile Views" />
   </div>
   
   <br/>
   
   <a href="https://github.com/YALOKGARua" target="_blank">
-    <img src="https://img.shields.io/github/followers/YALOKGARua?logo=GitHub&style=for-the-badge&color=0057B8&labelColor=FFD700" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/YALOKGARua?logo=GitHub&style=for-the-badge&color=00FF00&labelColor=000000" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/YALOKGARua?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/stars/YALOKGARua?logo=github&style=for-the-badge&color=0057B8&labelColor=FFD700" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/YALOKGARua?logo=github&style=for-the-badge&color=00FF00&labelColor=000000" alt="GitHub Stars" />
   </a>
 
 </div>
@@ -98,10 +98,10 @@ class UkrainianDeveloper {
 <details open>
 <summary><h2>🔧 Технічний арсенал | Tech Stack</h2></summary>
 
-<div align="center" style="background: linear-gradient(to right, #0057B8, #FFD700); padding: 20px; border-radius: 10px; margin: 10px 0;">
+<div align="center" style="background: linear-gradient(to right, #000000, #00FF00); padding: 20px; border-radius: 10px; margin: 10px 0;">
   <h3 style="color: white;">Мови програмування | Programming Languages</h3>
   
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py,rust,lua,ruby,html,css,wasm&theme=dark&perline=6" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py,rust,lua,ruby,html,css,wasm&theme=light&perline=6" /><br>
   <i>C • C++ • C# • JavaScript • TypeScript • Python • Rust • Lua • Ruby • HTML • CSS • WebAssembly</i>
 </div>
 
@@ -127,10 +127,10 @@ class UkrainianDeveloper {
   </table>
 </div>
 
-<div align="center" style="background: linear-gradient(to right, #0057B8, #FFD700); padding: 20px; border-radius: 10px; margin: 10px 0;">
+<div align="center" style="background: linear-gradient(to right, #000000, #00FF00); padding: 20px; border-radius: 10px; margin: 10px 0;">
   <h3 style="color: white;">Інструменти розробки | Development Tools</h3>
   
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,figma,vim,cmake,bash,powershell&theme=dark&perline=5" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,figma,vim,cmake,bash,powershell&theme=light&perline=5" /><br>
   <i>Git • GitHub • GitLab • VS Code • Visual Studio • Figma • Vim • CMake • Bash • PowerShell</i>
 </div>
 
@@ -268,28 +268,24 @@ class UkrainianDeveloper {
         </p>
       </td>
       <td width="40%" align="center">
-        <img src="https://dummyimage.com/400x200/0057b8/ffd700.png&text=Ukrainian+Tech+Community" alt="Ukrainian Tech"/>
+        <img src="https://dummyimage.com/400x200/000000/00ff00.png&text=Ukrainian+Tech+Community" alt="Ukrainian Tech"/>
       </td>
     </tr>
   </table>
   
   <h3>Українські технологічні досягнення</h3>
   <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin: 20px 0;">
-    <div style="flex: 1; min-width: 120px; margin: 10px; padding: 15px; border-radius: 10px; background-color: #0057B8; color: #FFD700;">
+    <div style="flex: 1; min-width: 120px; margin: 10px; padding: 15px; border-radius: 10px; background-color: #000000; color: #00FF00;">
       <h4>Grammarly</h4>
       <p>Революційний інструмент перевірки граматики</p>
     </div>
-    <div style="flex: 1; min-width: 120px; margin: 10px; padding: 15px; border-radius: 10px; background-color: #0057B8; color: #FFD700;">
+    <div style="flex: 1; min-width: 120px; margin: 10px; padding: 15px; border-radius: 10px; background-color: #000000; color: #00FF00;">
       <h4>GitLab</h4>
       <p>Співзасновник українського походження</p>
     </div>
-    <div style="flex: 1; min-width: 120px; margin: 10px; padding: 15px; border-radius: 10px; background-color: #0057B8; color: #FFD700;">
+    <div style="flex: 1; min-width: 120px; margin: 10px; padding: 15px; border-radius: 10px; background-color: #000000; color: #00FF00;">
       <h4>Readdle</h4>
       <p>Продуктивні додатки для iOS</p>
-    </div>
-    <div style="flex: 1; min-width: 120px; margin: 10px; padding: 15px; border-radius: 10px; background-color: #0057B8; color: #FFD700;">
-      <h4>MacPaw</h4>
-      <p>Інноваційне програмне забезпечення для macOS</p>
     </div>
   </div>
 </div>
@@ -366,6 +362,6 @@ graph TD
   <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Код%20—%20це%20поезія%20логіки.%20Творення%20досконалості%20—%20це%20не%20коли%20нема%20чого%20додати%2C%20а%20коли%20нема%20чого%20видалити.&author=YALOKGARua" />
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0057B8&height=100&section=footer&text=Слава%20Україні!&fontSize=24&fontColor=FFD700&animation=fadeIn" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&text=Слава%20Україні!&fontSize=24&fontColor=00FF00&animation=fadeIn" width="100%" alt="Footer"/>
 </div>
 
