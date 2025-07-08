@@ -2,27 +2,27 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=YALOKGAR&fontColor=000000&fontSize=90&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Specialist%20%7C%20Advanced%20Systems%20Engineer&descAlignY=60&descAlign=50&bg=000000" width="100%" alt="Header"/>
-
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=50&lines=%3E+Initializing+secure+connection...;%3E+Ukrainian+cyber+warfare+division;%3E+Advanced+Security+Systems;%3E+Network+Defense+Specialist;%3E+Exploit+Development+Expert;%3E+Reverse+Engineering+Master" alt="Typing SVG"/>
   </a>
-
+  
   <div>
     <img src="https://img.shields.io/badge/Status-Active_Operator-00FF00?style=flat-square&labelColor=000000" alt="Status"/>
     <img src="https://img.shields.io/badge/Threat_Level-Maximum-00FF00?style=flat-square&labelColor=000000" alt="Threat Level"/>
     <img src="https://img.shields.io/badge/Access_Level-Classified-00FF00?style=flat-square&labelColor=000000" alt="Access Level"/>
   </div>
-
+  
   <br/>
-
+  
   <div>
     <img src="https://komarev.com/ghpvc/?username=YALOKGARua&style=flat-square&color=00FF00&labelColor=000000" alt="Profile Views"/>
-    <a href="https://github.com/YALOKGARua" target="_blank">
+  <a href="https://github.com/YALOKGARua" target="_blank">
       <img src="https://img.shields.io/github/followers/YALOKGARua?logo=github&style=flat-square&color=00FF00&labelColor=000000" alt="GitHub Followers"/>
-    </a>
-    <a href="https://github.com/YALOKGARua?tab=repositories" target="_blank">
+  </a>
+  <a href="https://github.com/YALOKGARua?tab=repositories" target="_blank">
       <img src="https://img.shields.io/github/stars/YALOKGARua?logo=github&style=flat-square&color=00FF00&labelColor=000000" alt="GitHub Stars"/>
-    </a>
+  </a>
   </div>
 </div>
 
