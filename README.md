@@ -6,10 +6,18 @@
   
   <div>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=%3E%3E+System+initialization...;%3E%3E+Ukrainian+cyber+warfare+division;%3E%3E+Advanced+Security+Systems;%3E%3E+Network+Defense+Specialist" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=%3E%3E+System+initialization...;%3E%3E+Ukrainian+cyber+warfare+division;%3E%3E+Advanced+Security+Systems;%3E%3E+Network+Defense+Specialist;%3E%3E+Exploit+Development+Expert;%3E%3E+Reverse+Engineering+Master" alt="Typing SVG" />
     </a>
     <br/>
     <img src="https://komarev.com/ghpvc/?username=YALOKGARua&style=for-the-badge&color=00FF00&labelColor=000000" alt="Profile Views" />
+  </div>
+  
+  <br/>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Status-Active_Operator-00FF00?style=for-the-badge&labelColor=000000" alt="Status"/>
+    <img src="https://img.shields.io/badge/Threat_Level-Maximum-00FF00?style=for-the-badge&labelColor=000000" alt="Threat Level"/>
+    <img src="https://img.shields.io/badge/Access_Level-Classified-00FF00?style=for-the-badge&labelColor=000000" alt="Access Level"/>
   </div>
   
   <br/>
@@ -57,17 +65,47 @@
   <h3>Infrastructure & Cloud</h3>
   <img src="https://skillicons.dev/icons?i=aws,azure,mongodb,postgres,redis,kafka&theme=dark&perline=6" /><br>
   <i>AWS • Azure • MongoDB • PostgreSQL • Redis • Kafka</i>
+  
+  <h3>Advanced Tools</h3>
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/IDA_Pro-Expert-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/Ghidra-Master-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/Binary_Ninja-Advanced-00FF00?style=flat-square&labelColor=000000"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Radare2-Specialist-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/WinDbg-Expert-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/GDB-Master-00FF00?style=flat-square&labelColor=000000"/></td>
+    </tr>
+  </table>
 </div>
 
 ## 🎯 Current Operations
 
-\`\`\`assembly
+\`\`\`nasm
 section .data
-    operations db "[ ] Advanced Persistent Threat Research", 0x0A
-              db "[ ] Zero-Day Vulnerability Discovery", 0x0A
-              db "[ ] Quantum Cryptography Implementation", 0x0A
-              db "[ ] Neural Network Defense Systems", 0x0A
-              db "[ ] Blockchain Security Protocol Development", 0x0A
+    global _operations
+    
+_operations:
+    db "[ ] Advanced Persistent Threat Research", 0x0A
+    db "    ├── Analyzing Advanced Evasion Techniques", 0x0A
+    db "    └── Developing Counter-Measures", 0x0A
+    db "[ ] Zero-Day Vulnerability Discovery", 0x0A
+    db "    ├── Binary Analysis", 0x0A
+    db "    └── Exploit Development", 0x0A
+    db "[ ] Quantum Cryptography Implementation", 0x0A
+    db "    ├── Post-Quantum Algorithms", 0x0A
+    db "    └── Quantum-Safe Protocols", 0x0A
+    db "[ ] Neural Network Defense Systems", 0x0A
+    db "    ├── AI-Based Threat Detection", 0x0A
+    db "    └── Automated Response Systems", 0x0A
+    db "[ ] Blockchain Security Protocol Development", 0x0A
+    db "    ├── Smart Contract Auditing", 0x0A
+    db "    └── DeFi Security Research", 0x0A
+
+section .text
+    global _start
 \`\`\`
 
 ## 🛡️ Featured Projects
@@ -85,6 +123,7 @@ section .data
             <a href="https://github.com/YALOKGARua/secure-vault">
               <img src="https://img.shields.io/badge/-Repository-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
             </a>
+            <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge&labelColor=000000"/>
           </div>
           <p><strong>C++, Rust</strong><br>Advanced encryption system with military-grade security protocols</p>
         </div>
@@ -99,6 +138,7 @@ section .data
             <a href="https://github.com/YALOKGARua/network-defense">
               <img src="https://img.shields.io/badge/-Repository-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
             </a>
+            <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge&labelColor=000000"/>
           </div>
           <p><strong>C++, Rust</strong><br>Advanced network monitoring and defense system with real-time threat detection</p>
         </div>
@@ -115,6 +155,7 @@ section .data
             <a href="https://github.com/YALOKGARua/security-audit">
               <img src="https://img.shields.io/badge/-Repository-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
             </a>
+            <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge&labelColor=000000"/>
           </div>
           <p><strong>Python, Bash</strong><br>Comprehensive security assessment and vulnerability scanning toolkit</p>
         </div>
@@ -129,6 +170,7 @@ section .data
             <a href="https://github.com/YALOKGARua/secure-comms">
               <img src="https://img.shields.io/badge/-Repository-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
             </a>
+            <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge&labelColor=000000"/>
           </div>
           <p><strong>Rust, TypeScript</strong><br>End-to-end encrypted communication platform with advanced security features</p>
         </div>
@@ -164,7 +206,7 @@ section .data
   </a>
 </div>
 
-## 🔒 Security Certifications
+## 🔒 Security Certifications & Achievements
 
 <div align="center">
   <table>
@@ -172,6 +214,21 @@ section .data
       <td><img src="https://img.shields.io/badge/OSCP-Offensive_Security-00FF00?style=flat-square&labelColor=000000"/></td>
       <td><img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-00FF00?style=flat-square&labelColor=000000"/></td>
       <td><img src="https://img.shields.io/badge/CISSP-Security_Professional-00FF00?style=flat-square&labelColor=000000"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/OSCE-Advanced_Security-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/OSWE-Web_Expert-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/OSEE-Exploitation_Expert-00FF00?style=flat-square&labelColor=000000"/></td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/HackerOne-Top_Ranked-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/Bug_Bounty-Elite_Hunter-00FF00?style=flat-square&labelColor=000000"/></td>
+      <td><img src="https://img.shields.io/badge/CTF-Champion-00FF00?style=flat-square&labelColor=000000"/></td>
     </tr>
   </table>
 </div>
