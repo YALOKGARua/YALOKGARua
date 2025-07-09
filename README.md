@@ -20,7 +20,12 @@
     <img src="https://img.shields.io/github/followers/YALOKGARua?logo=github&style=for-the-badge&color=darkred&labelColor=black&label=⚡OPERATIVES"/>
     <img src="https://img.shields.io/github/stars/YALOKGARua?logo=github&style=for-the-badge&color=crimson&labelColor=black&label=💀DECIMATED"/>
     <img src="https://img.shields.io/badge/🔥CONFIRMED_KILLS-∞-FF0000?style=for-the-badge&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/💀REALITY_HACKS-9847-8B0000?style=for-the-badge&labelColor=000000"/>
   </p>
+  
+  <div style="margin: 20px 0;">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYALOKGARua&count_bg=%23FF0000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%92%80SURVEILLANCE&edge_flat=false" alt="Surveillance Counter"/>
+  </div>
 </div>
 
 <div align="center">
@@ -299,18 +304,10 @@ yalokgar@apocalypse-terminal:~$ sudo ./supreme_devastation_engine --unleash-chao
 
 <div style="background: linear-gradient(90deg, #220000, #440000, #220000); padding: 30px; border-radius: 20px; border: 4px solid #DC143C; box-shadow: 0 0 50px #DC143C;">
 
-<a href="https://discord.gg/HUhFudC4qn" target="_blank">
 <img src="https://img.shields.io/badge/💀Discord_Command-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://linkedin.com/in/yalokgar" target="_blank">
 <img src="https://img.shields.io/badge/⚡LinkedIn_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-</a>
-<a href="mailto:yalokgar@protonmail.com" target="_blank">
 <img src="https://img.shields.io/badge/🔥ProtonMail_Secure-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://twitter.com/yalokgar" target="_blank">
 <img src="https://img.shields.io/badge/💥Twitter_Feed-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
-</a>
 
 <br/><br/>
 
@@ -577,13 +574,13 @@ echo "🔥 All targets under supreme control"
 <br/>
 
 <div style="background: linear-gradient(90deg, #220000, #330000, #220000); padding: 25px; border-radius: 15px; border: 3px solid #8B0000; box-shadow: 0 0 40px #8B0000;">
-<img src="https://skillicons.dev/icons?i=solidity,vyper,move,cairo,noir,circom,leo,zinc,teal,plutus,marlowe,scilla,michelson,ligo,smartpy&theme=dark&perline=15"/>
+<img src="https://skillicons.dev/icons?i=solidity,wasm,unity,unreal,blender,figma,photoshop,illustrator,premiere,aftereffects,xd,sketch,firebase,supabase,planetscale&theme=dark&perline=15"/>
 </div>
 
 <br/>
 
 <div style="background: linear-gradient(90deg, #110000, #220000, #110000); padding: 25px; border-radius: 15px; border: 3px solid #DC143C; box-shadow: 0 0 40px #DC143C;">
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,kibana,logstash,influxdb,telegraf,jaeger,zipkin,opentelemetry,datadog,newrelic,splunk,sumo,dynatrace&theme=dark&perline=15"/>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,docker,kubernetes,terraform,ansible,jenkins,gitlab,github,git,vim,neovim,vscode,idea&theme=dark&perline=15"/>
 </div>
 </div>
 
@@ -592,7 +589,19 @@ echo "🔥 All targets under supreme control"
 <div align="center" style="margin: 40px 0;">
 <div style="background: linear-gradient(45deg, #330000, #110000, #220000); padding: 30px; border-radius: 20px; border: 4px solid #DC143C; box-shadow: 0 0 50px #DC143C;">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YALOKGARua&bg_color=000000&color=FF0000&line=8B0000&point=DC143C&area_color=B22222&area=true&hide_border=true&custom_title=💀%20SUPREME%20CYBER%20WARFARE%20ACTIVITY%20💀" width="100%"/>
+<div style="border: 3px solid #DC143C; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #110000, #220000); box-shadow: 0 0 35px #DC143C;">
+<h4 style="color: #DC143C; text-shadow: 0 0 15px #DC143C; text-align: center;">💀 SUPREME CYBER WARFARE ACTIVITY 💀</h4>
+<div style="display: grid; grid-template-columns: repeat(7, 1fr); gap: 3px; margin: 20px 0;">
+<div style="background: #8B0000; height: 12px; border-radius: 2px;"></div>
+<div style="background: #FF0000; height: 15px; border-radius: 2px;"></div>
+<div style="background: #DC143C; height: 10px; border-radius: 2px;"></div>
+<div style="background: #B22222; height: 18px; border-radius: 2px;"></div>
+<div style="background: #FF0000; height: 13px; border-radius: 2px;"></div>
+<div style="background: #8B0000; height: 16px; border-radius: 2px;"></div>
+<div style="background: #DC143C; height: 11px; border-radius: 2px;"></div>
+</div>
+<p style="color: #FFFFFF; text-align: center; margin: 10px 0;">Continuous reality manipulation and system devastation protocols active</p>
+</div>
 
 </div>
 </div>
@@ -848,7 +857,11 @@ supreme_overlord = SupremeNeuralOverlord()
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YALOKGARua&repo=legendary-gaming-arsenal&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=8B0000&border_color=DC143C&border_radius=15"/>
+<div style="border: 3px solid #DC143C; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #110000, #220000); box-shadow: 0 0 30px #DC143C;">
+<h4 style="color: #DC143C; text-shadow: 0 0 15px #DC143C;">🎮 LEGENDARY GAMING PROTOCOLS</h4>
+<p style="color: #FFFFFF;">Advanced gaming optimization framework with reality-bending performance enhancements and dimensional advantage algorithms</p>
+<img src="https://img.shields.io/badge/STATUS-CLASSIFIED-DC143C?style=for-the-badge&labelColor=000000"/>
+</div>
 
 </div>
 </div>
@@ -999,32 +1012,18 @@ func main() {
 <a href="https://github.com/YALOKGARua" target="_blank">
 <img src="https://img.shields.io/badge/💀GitHub_HQ-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
 </a>
-<a href="https://stackoverflow.com/users/yalokgar" target="_blank">
 <img src="https://img.shields.io/badge/⚡Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://leetcode.com/yalokgar" target="_blank">
 <img src="https://img.shields.io/badge/🔥LeetCode_Elite-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://hackerone.com/yalokgar" target="_blank">
 <img src="https://img.shields.io/badge/💥HackerOne_Legend-494649?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=000000"/>
-</a>
 </p>
 
 <br/>
 
 <p align="center">
-<a href="https://twitch.tv/yalokgar" target="_blank">
 <img src="https://img.shields.io/badge/🎯Twitch_Stream-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://youtube.com/c/yalokgar" target="_blank">
 <img src="https://img.shields.io/badge/👑YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://medium.com/@yalokgar" target="_blank">
 <img src="https://img.shields.io/badge/📚Medium_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://dev.to/yalokgar" target="_blank">
 <img src="https://img.shields.io/badge/⚡DEV.TO_Posts-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=000000"/>
-</a>
 </p>
 
 <br/>
@@ -1073,7 +1072,7 @@ func main() {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YALOKGARua&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=8B0000&border_color=DC143C&border_radius=15&layout=compact" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YALOKGARua&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=8B0000&text_color=FFFFFF&bg_color=000000&border_radius=15&include_all_commits=true&custom_title=💀%20SUPREME%20CODING%20MASTERY%20💀" width="100%"/>
 
 </div>
 </div>
@@ -1177,7 +1176,23 @@ func main() {
 
 <h3 style="color: #DC143C; text-shadow: 0 0 20px #DC143C;">👁️ **OMNIPRESENT SURVEILLANCE GRID** 👁️</h3>
 
-<img src="https://profile-counter.glitch.me/YALOKGARua/count.svg?style=for-the-badge&color=FF0000&background=000000" alt="Visitor Counter"/>
+<div style="border: 3px solid #FF0000; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #330000, #110000); text-align: center; box-shadow: 0 0 30px #FF0000;">
+<h4 style="color: #FF0000; text-shadow: 0 0 15px #FF0000;">👁️ SURVEILLANCE METRICS 👁️</h4>
+<div style="display: flex; justify-content: space-around; margin: 20px 0;">
+<div style="text-align: center;">
+<span style="font-size: 24px; color: #FF0000; text-shadow: 0 0 15px #FF0000;">∞</span><br/>
+<span style="color: #FFFFFF;">TARGETS TRACKED</span>
+</div>
+<div style="text-align: center;">
+<span style="font-size: 24px; color: #8B0000; text-shadow: 0 0 15px #8B0000;">24/7</span><br/>
+<span style="color: #FFFFFF;">MONITORING</span>
+</div>
+<div style="text-align: center;">
+<span style="font-size: 24px; color: #DC143C; text-shadow: 0 0 15px #DC143C;">GLOBAL</span><br/>
+<span style="color: #FFFFFF;">COVERAGE</span>
+</div>
+</div>
+</div>
 
 <br/><br/>
 
@@ -1254,10 +1269,10 @@ func main() {
 <div style="text-align: center; padding: 20px; background: linear-gradient(90deg, #110000, #220000, #110000); border-radius: 15px; border: 2px solid #FF0000; box-shadow: 0 0 35px #FF0000;">
 <h4 style="color: #FF0000; text-shadow: 0 0 15px #FF0000;">⚡ PRIORITY CONTACT FREQUENCIES ⚡</h4>
 <p style="color: #FFFFFF; font-family: monospace; font-size: 16px;">
-SECURE_CHANNEL_ALPHA: yalokgar@protonmail.com<br/>
-PHANTOM_NETWORK_BETA: discord.gg/HUhFudC4qn<br/>
-QUANTUM_RELAY_GAMMA: t.me/YALOKGARua<br/>
-EMERGENCY_PROTOCOL_DELTA: signal.me/#p/+380XXXXXXXX
+SECURE_CHANNEL_ALPHA: [CLASSIFIED]<br/>
+PHANTOM_NETWORK_BETA: [ENCRYPTED]<br/>
+QUANTUM_RELAY_GAMMA: [DIMENSIONAL]<br/>
+EMERGENCY_PROTOCOL_DELTA: [TRANSCENDENT]
 </p>
 </div>
 
