@@ -24,7 +24,7 @@
   </p>
   
   <div style="margin: 20px 0;">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYALOKGARua&count_bg=%23FF0000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%92%80SURVEILLANCE&edge_flat=false" alt="Surveillance Counter"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=YALOKGARua.YALOKGARua&style=for-the-badge&color=FF0000&title=💀%20SURVEILLANCE" alt="Surveillance Counter"/>
   </div>
 </div>
 
@@ -535,26 +535,26 @@ echo "🔥 All targets under supreme control"
 <table width="100%" style="border-collapse: separate; border-spacing: 20px;">
 <tr>
 <td width="25%" align="center" style="border: 3px solid #FF0000; border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #440000, #220000); box-shadow: 0 0 30px #FF0000;">
-<img src="https://img.icons8.com/color/64/000000/medal.png" width="64px"/>
-<h4 style="color: #FF0000;">🏆 CERTIFIED ETHICAL HACKER</h4>
+<h1 style="color: #FF0000; font-size: 48px; margin: 10px 0;">🏆</h1>
+<h4 style="color: #FF0000;">CERTIFIED ETHICAL HACKER</h4>
 <p style="color: #FFFFFF;">Elite Level Certification</p>
 <img src="https://img.shields.io/badge/LEVEL-GRANDMASTER-FF0000?style=for-the-badge&labelColor=000000"/>
 </td>
 <td width="25%" align="center" style="border: 3px solid #8B0000; border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #330000, #110000); box-shadow: 0 0 30px #8B0000;">
-<img src="https://img.icons8.com/color/64/000000/security-shield-green.png" width="64px"/>
-<h4 style="color: #8B0000;">🛡️ PENETRATION TESTING</h4>
+<h1 style="color: #8B0000; font-size: 48px; margin: 10px 0;">🛡️</h1>
+<h4 style="color: #8B0000;">PENETRATION TESTING</h4>
 <p style="color: #FFFFFF;">Advanced Warfare Specialist</p>
 <img src="https://img.shields.io/badge/LEVEL-LEGENDARY-8B0000?style=for-the-badge&labelColor=000000"/>
 </td>
 <td width="25%" align="center" style="border: 3px solid #DC143C; border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #220000, #330000); box-shadow: 0 0 30px #DC143C;">
-<img src="https://img.icons8.com/color/64/000000/cyber-security.png" width="64px"/>
-<h4 style="color: #DC143C;">🔐 MALWARE ANALYSIS</h4>
+<h1 style="color: #DC143C; font-size: 48px; margin: 10px 0;">🔐</h1>
+<h4 style="color: #DC143C;">MALWARE ANALYSIS</h4>
 <p style="color: #FFFFFF;">Supreme Code Architect</p>
 <img src="https://img.shields.io/badge/LEVEL-TRANSCENDENT-DC143C?style=for-the-badge&labelColor=000000"/>
 </td>
 <td width="25%" align="center" style="border: 3px solid #B22222; border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #110000, #220000); box-shadow: 0 0 30px #B22222;">
-<img src="https://img.icons8.com/color/64/000000/hacker.png" width="64px"/>
-<h4 style="color: #B22222;">💀 DIGITAL FORENSICS</h4>
+<h1 style="color: #B22222; font-size: 48px; margin: 10px 0;">💀</h1>
+<h4 style="color: #B22222;">DIGITAL FORENSICS</h4>
 <p style="color: #FFFFFF;">Reality Manipulation Expert</p>
 <img src="https://img.shields.io/badge/LEVEL-OMNIPOTENT-B22222?style=for-the-badge&labelColor=000000"/>
 </td>
@@ -589,19 +589,27 @@ echo "🔥 All targets under supreme control"
 <div align="center" style="margin: 40px 0;">
 <div style="background: linear-gradient(45deg, #330000, #110000, #220000); padding: 30px; border-radius: 20px; border: 4px solid #DC143C; box-shadow: 0 0 50px #DC143C;">
 
-<div style="border: 3px solid #DC143C; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #110000, #220000); box-shadow: 0 0 35px #DC143C;">
-<h4 style="color: #DC143C; text-shadow: 0 0 15px #DC143C; text-align: center;">💀 SUPREME CYBER WARFARE ACTIVITY 💀</h4>
-<div style="display: grid; grid-template-columns: repeat(7, 1fr); gap: 3px; margin: 20px 0;">
-<div style="background: #8B0000; height: 12px; border-radius: 2px;"></div>
-<div style="background: #FF0000; height: 15px; border-radius: 2px;"></div>
-<div style="background: #DC143C; height: 10px; border-radius: 2px;"></div>
-<div style="background: #B22222; height: 18px; border-radius: 2px;"></div>
-<div style="background: #FF0000; height: 13px; border-radius: 2px;"></div>
-<div style="background: #8B0000; height: 16px; border-radius: 2px;"></div>
-<div style="background: #DC143C; height: 11px; border-radius: 2px;"></div>
-</div>
-<p style="color: #FFFFFF; text-align: center; margin: 10px 0;">Continuous reality manipulation and system devastation protocols active</p>
-</div>
+<table style="border: 3px solid #DC143C; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #110000, #220000); box-shadow: 0 0 35px #DC143C; width: 100%;">
+<tr>
+<td colspan="7" align="center">
+<h4 style="color: #DC143C; text-shadow: 0 0 15px #DC143C;">💀 SUPREME CYBER WARFARE ACTIVITY 💀</h4>
+</td>
+</tr>
+<tr style="height: 40px;">
+<td width="14%" style="background: #8B0000; border-radius: 3px; padding: 5px;"></td>
+<td width="14%" style="background: #FF0000; border-radius: 3px; padding: 8px;"></td>
+<td width="14%" style="background: #DC143C; border-radius: 3px; padding: 4px;"></td>
+<td width="14%" style="background: #B22222; border-radius: 3px; padding: 10px;"></td>
+<td width="14%" style="background: #FF0000; border-radius: 3px; padding: 6px;"></td>
+<td width="14%" style="background: #8B0000; border-radius: 3px; padding: 7px;"></td>
+<td width="14%" style="background: #DC143C; border-radius: 3px; padding: 5px;"></td>
+</tr>
+<tr>
+<td colspan="7" align="center" style="padding-top: 15px;">
+<p style="color: #FFFFFF; margin: 0;">Continuous reality manipulation and system devastation protocols active</p>
+</td>
+</tr>
+</table>
 
 </div>
 </div>
@@ -1119,25 +1127,23 @@ func main() {
 
 <h2 style="color: #FF0000; text-shadow: 0 0 30px #FF0000;">🚀 **COSMIC PERFORMANCE MATRIX** 🚀</h2>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YALOKGARua&theme=radical&background=000000" width="100%"/>
-
-<br/><br/>
-
-<table width="100%" style="border-collapse: separate; border-spacing: 15px;">
+<table style="border: 3px solid #FF0000; border-radius: 15px; padding: 25px; background: linear-gradient(135deg, #330000, #110000); box-shadow: 0 0 35px #FF0000; width: 100%;">
 <tr>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YALOKGARua&theme=radical&background=000000" width="100%"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YALOKGARua&theme=radical&background=000000" width="100%"/>
+<td colspan="2" align="center">
+<h4 style="color: #FF0000; text-shadow: 0 0 15px #FF0000;">💀 COSMIC PERFORMANCE MATRIX 💀</h4>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YALOKGARua&theme=radical&background=000000" width="100%"/>
+<td width="50%" align="center" style="padding: 20px;">
+<img src="https://github-readme-stats.vercel.app/api?username=YALOKGARua&show_icons=true&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=8B0000&hide_border=true" width="100%"/>
 </td>
-<td width="50%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YALOKGARua&theme=radical&background=000000&utc_offset=8" width="100%"/>
+<td width="50%" align="center" style="padding: 20px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALOKGARua&layout=compact&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&hide_border=true" width="100%"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" style="padding: 20px;">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YALOKGARua&theme=dark&background=000000&stroke=FF0000&ring=8B0000&fire=DC143C&currStreakNum=FFFFFF&sideNums=B22222&currStreakLabel=FF0000&sideLabels=8B0000&dates=FFFFFF&hide_border=true" width="100%"/>
 </td>
 </tr>
 </table>
@@ -1176,23 +1182,27 @@ func main() {
 
 <h3 style="color: #DC143C; text-shadow: 0 0 20px #DC143C;">👁️ **OMNIPRESENT SURVEILLANCE GRID** 👁️</h3>
 
-<div style="border: 3px solid #FF0000; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #330000, #110000); text-align: center; box-shadow: 0 0 30px #FF0000;">
+<table style="border: 3px solid #FF0000; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #330000, #110000); box-shadow: 0 0 30px #FF0000; width: 100%;">
+<tr>
+<td colspan="3" align="center">
 <h4 style="color: #FF0000; text-shadow: 0 0 15px #FF0000;">👁️ SURVEILLANCE METRICS 👁️</h4>
-<div style="display: flex; justify-content: space-around; margin: 20px 0;">
-<div style="text-align: center;">
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" style="padding: 15px;">
 <span style="font-size: 24px; color: #FF0000; text-shadow: 0 0 15px #FF0000;">∞</span><br/>
 <span style="color: #FFFFFF;">TARGETS TRACKED</span>
-</div>
-<div style="text-align: center;">
+</td>
+<td width="33%" align="center" style="padding: 15px;">
 <span style="font-size: 24px; color: #8B0000; text-shadow: 0 0 15px #8B0000;">24/7</span><br/>
 <span style="color: #FFFFFF;">MONITORING</span>
-</div>
-<div style="text-align: center;">
+</td>
+<td width="33%" align="center" style="padding: 15px;">
 <span style="font-size: 24px; color: #DC143C; text-shadow: 0 0 15px #DC143C;">GLOBAL</span><br/>
 <span style="color: #FFFFFF;">COVERAGE</span>
-</div>
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
