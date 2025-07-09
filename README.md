@@ -1,264 +1,247 @@
 # [Y̷̘̗͎̞̌̉̀̓̔̂̅̚͠A̴̡̙̯̹̦̻̖̽̈̀̔̊̏͐̑͝L̵͉̦͙͈͕̦̩͙̎̽̂́̚Ơ̷̻̩͇͔͖̄͂̈́̓̅̈́̆̈́K̴̡̤̼̙̤̼͂̑̄̂͆̐̔̑̂͠G̷̻̟̖̰̱͖̃̎͝A̶̻̙͑̍̍̈́͆R̶̡̤͔̰̱͚̳̝͎͛͋̀̔̍̂̕͝]
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=%5BY%5DA%5BL%5DO%5BK%5DG%5BA%5DR&fontColor=00FF00&fontSize=80&animation=blinking&fontAlignY=35&desc=%7B%20CyberSecurity%20Specialist%20%7C%20Advanced%20Threat%20Actor%20%7D&descAlignY=60&descAlign=50" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:FF0000,25:8B0000,50:FF4500,75:DC143C,100:B22222&height=300&section=header&text=Y̴̧̰̘̗͎̞̌̉̀̓̔̂̅̚͠A̷̡̙̯̹̦̻̖̽̈̀̔̊̏͐̑͝L̸͉̦͙͈͕̦̩͙̎̽̂́̚Ō̵̻̩͇͔͖͂̈́̓̅̈́̆̈́K̷̡̤̼̙̤̼͂̑̄̂͆̐̔̑̂͠G̸̻̟̖̰̱͖̃̎͝A̷̻̙͑̍̍̈́͆R̵̡̤͔̰̱͚̳̝͎͛͋̀̔̍̂̕͝&fontColor=FFFFFF&fontSize=100&animation=scaleIn&fontAlign=50&fontAlignY=35&desc=ANONYMOUS∙UNTRACEABLE∙UNSTOPPABLE&descSize=20&descAlign=50&descAlignY=60" alt="Header"/>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&random=false&width=800&lines=%3E%3E+INITIALIZING+SYSTEM+ACCESS...;%3E%3E+BYPASSING+SECURITY+PROTOCOLS...;%3E%3E+ACTIVATING+GHOST+PROTOCOL...;%3E%3E+DEPLOYING+EXPLOIT+MODULES...;%3E%3E+PENETRATING+TARGET+NETWORK...;%3E%3E+ROOT+ACCESS+GRANTED" alt="Typing SVG" />
-  </a>
+  <div style="position: relative; margin: -50px 0 20px 0;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=900&size=28&duration=3000&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=┌─[root@anonymous]~;└──╼+sudo+./exploit+--target=*;+[✓]+System+compromised+successfully;+[✓]+Privilege+escalation+complete;+[✓]+Persistence+mechanism+deployed;+[!]+Initiating+data+exfiltration..." alt="Terminal Animation"/>
+  </div>
   
   <p>
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE_THREAT-FF0000?style=for-the-badge&labelColor=000000" alt="Status"/>
-    <img src="https://img.shields.io/badge/CLEARANCE-BLACK_OPS-FF0000?style=for-the-badge&labelColor=000000" alt="Threat Level"/>
-    <img src="https://img.shields.io/badge/TARGET-YOUR_NETWORK-FF0000?style=for-the-badge&labelColor=000000" alt="Access Level"/>
+    <img src="https://img.shields.io/badge/⚡THREAT_LEVEL-CRITICAL-FF0000?style=for-the-badge&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkYwMDAwIi8+Cjwvc3ZnPgo=" alt="Threat Level"/>
+    <img src="https://img.shields.io/badge/🔥STATUS-OPERATIONAL-00FF00?style=for-the-badge&labelColor=000000" alt="Status"/>
+    <img src="https://img.shields.io/badge/💀ACCESS-UNRESTRICTED-FF6600?style=for-the-badge&labelColor=000000" alt="Access"/>
   </p>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YALOKGARua&style=for-the-badge&color=FF0000&labelColor=000000" alt="Profile Views"/>
-    <a href="https://github.com/YALOKGARua" target="_blank">
-      <img src="https://img.shields.io/github/followers/YALOKGARua?logo=github&style=for-the-badge&color=FF0000&labelColor=000000" alt="GitHub Followers"/>
-    </a>
-    <a href="https://github.com/YALOKGARua?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/github/stars/YALOKGARua?logo=github&style=for-the-badge&color=FF0000&labelColor=000000" alt="GitHub Stars"/>
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=YALOKGARua&style=for-the-badge&color=red&labelColor=black&label=INTRUSIONS" alt="Intrusions"/>
+    <img src="https://img.shields.io/github/followers/YALOKGARua?logo=github&style=for-the-badge&color=red&labelColor=black&label=AGENTS" alt="Agents"/>
+    <img src="https://img.shields.io/github/stars/YALOKGARua?logo=github&style=for-the-badge&color=red&labelColor=black&label=COMPROMISED" alt="Compromised"/>
   </p>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cyber Snake"/>
 </div>
 
-```diff
-+ SYSTEM STATUS: OPERATIONAL
-- SECURITY PROTOCOLS: BYPASSED
-! WARNING: INTRUSION DETECTED
-# COUNTER-MEASURES: DISABLED
-@@ EXPLOIT ENGINE: ACTIVATED @@
+```ansi
+[38;5;196m╔══════════════════════════════════════════════════════════════╗[0m
+[38;5;196m║[0m [38;5;15m                    THREAT ASSESSMENT REPORT                    [0m [38;5;196m║[0m
+[38;5;196m╠══════════════════════════════════════════════════════════════╣[0m
+[38;5;196m║[0m [38;5;46m✓[0m [38;5;15mTHREAT ACTOR:[0m [38;5;196mYALOKGAR[0m                                [38;5;196m║[0m
+[38;5;196m║[0m [38;5;46m✓[0m [38;5;15mCLASSIFICATION:[0m [38;5;196mADVANCED PERSISTENT THREAT[0m            [38;5;196m║[0m
+[38;5;196m║[0m [38;5;46m✓[0m [38;5;15mCAPABILITY:[0m [38;5;196mZERO-DAY EXPLOITATION[0m                   [38;5;196m║[0m
+[38;5;196m║[0m [38;5;46m✓[0m [38;5;15mPERSISTENCE:[0m [38;5;196mROOTKIT DEPLOYMENT[0m                     [38;5;196m║[0m
+[38;5;196m║[0m [38;5;46m✓[0m [38;5;15mSTEALTH:[0m [38;5;196mANTI-FORENSIC TECHNIQUES[0m                [38;5;196m║[0m
+[38;5;196m╚══════════════════════════════════════════════════════════════╝[0m
 ```
 
-## ☠️ [THREAT PROFILE]
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=4000&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=◢■◣+CYBER+WARFARE+SPECIALIST+◢■◣;◥▲◤+ADVANCED+THREAT+ACTOR+◥▲◤;►◄+DIGITAL+GHOST+PROTOCOL+►◄" alt="Title Animation"/>
+</h1>
 
-<div style="border: 1px solid #FF0000; border-radius: 8px; padding: 15px; background-color: #0d1117;">
-<pre style="color: #FF0000; margin: 0;">
-&#9760; <span style="color: #FFFFFF;">CODENAME:</span> YALOKGAR
-&#9762; <span style="color: #FFFFFF;">CLASSIFICATION:</span> ADVANCED PERSISTENT THREAT
-&#9773; <span style="color: #FFFFFF;">PRIMARY OBJECTIVE:</span> SYSTEM EXPLOITATION
-&#9819; <span style="color: #FFFFFF;">TACTICS:</span> ZERO-DAY VULNERABILITIES, SOCIAL ENGINEERING, POLYMORPHIC MALWARE
-&#9770; <span style="color: #FFFFFF;">ATTRIBUTION:</span> UNKNOWN [DATA EXPUNGED]
-</pre>
-</div>
-
-<br/>
-
-## 💻 [ARSENAL]
+## 🔥 **[DIGITAL ARSENAL]**
 
 <div align="center">
-  <table width="100%" style="border-collapse: separate; border-spacing: 8px;">
-    <tr>
-      <td align="center" width="25%" style="border: 1px solid #FF0000; border-radius: 8px; padding: 10px; background-color: #0d1117;">
-        <img src="https://img.icons8.com/color/48/000000/keyhole-shield.png" width="48px"/>
-        <h3>EXPLOITATION</h3>
-        <p style="font-size: 14px;">Custom zero-day exploits targeting critical infrastructure</p>
-      </td>
-      <td align="center" width="25%" style="border: 1px solid #FF0000; border-radius: 8px; padding: 10px; background-color: #0d1117;">
-        <img src="https://img.icons8.com/color/48/000000/virus.png" width="48px"/>
-        <h3>MALWARE</h3>
-        <p style="font-size: 14px;">Advanced polymorphic payloads with anti-forensic capabilities</p>
-      </td>
-      <td align="center" width="25%" style="border: 1px solid #FF0000; border-radius: 8px; padding: 10px; background-color: #0d1117;">
-        <img src="https://img.icons8.com/color/48/000000/network.png" width="48px"/>
-        <h3>PERSISTENCE</h3>
-        <p style="font-size: 14px;">Stealth backdoors with kernel-level rootkits</p>
-      </td>
-      <td align="center" width="25%" style="border: 1px solid #FF0000; border-radius: 8px; padding: 10px; background-color: #0d1117;">
-        <img src="https://img.icons8.com/color/48/000000/brain.png" width="48px"/>
-        <h3>INTELLIGENCE</h3>
-        <p style="font-size: 14px;">Advanced data exfiltration and OSINT capabilities</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="border: 1px solid #FF0000; border-radius: 8px; padding: 15px; background-color: #0d1117; margin-top: 20px;">
-<pre style="color: #FFFFFF; margin: 0; font-family: 'Courier New', monospace;">
-<span style="color: #FF0000;">root@yalokgar:~#</span> cat /proc/skills
-
-<span style="color: #00FF00;">[+]</span> Advanced Exploitation Techniques
-    <span style="color: #FF0000;">├──</span> Binary Analysis & Reverse Engineering
-    <span style="color: #FF0000;">├──</span> Memory Corruption Vulnerabilities
-    <span style="color: #FF0000;">└──</span> Firmware & Embedded Systems Exploitation
-
-<span style="color: #00FF00;">[+]</span> Offensive Development
-    <span style="color: #FF0000;">├──</span> Custom Exploit Development
-    <span style="color: #FF0000;">├──</span> Shellcode & Payload Engineering
-    <span style="color: #FF0000;">└──</span> Anti-Detection Techniques
-
-<span style="color: #00FF00;">[+]</span> Network Operations
-    <span style="color: #FF0000;">├──</span> Advanced Lateral Movement
-    <span style="color: #FF0000;">├──</span> Command & Control Infrastructure
-    <span style="color: #FF0000;">└──</span> Traffic Obfuscation & Exfiltration
-
-<span style="color: #00FF00;">[+]</span> Specialized Tactics
-    <span style="color: #FF0000;">├──</span> Supply Chain Compromises
-    <span style="color: #FF0000;">├──</span> Hardware-based Implants
-    <span style="color: #FF0000;">└──</span> Advanced Social Engineering
-</pre>
-</div>
-
-<br/>
-
-## 🔐 [WEAPONS CACHE]
-
-<div align="center">
-  <h3 style="color: #FF0000; border-bottom: 1px solid #FF0000; padding-bottom: 5px;">// PRIMARY TOOLKIT //</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,bash,powershell&theme=dark&perline=6"/>
-  </p>
-  
-  <h3 style="color: #FF0000; border-bottom: 1px solid #FF0000; padding-bottom: 5px;">// EXPLOITATION FRAMEWORKS //</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=linux,go,nodejs,wasm&theme=dark&perline=4"/>
-  </p>
-  
-  <h3 style="color: #FF0000; border-bottom: 1px solid #FF0000; padding-bottom: 5px;">// INFRASTRUCTURE //</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes&theme=dark&perline=4"/>
-  </p>
-</div>
-
-<table width="100%" style="border-collapse: separate; border-spacing: 8px; margin-top: 20px;">
-  <tr>
-    <td width="33%" style="border: 1px solid #FF0000; border-radius: 8px; padding: 10px; background-color: #0d1117; vertical-align: top;">
-      <h3 style="color: #FF0000; text-align: center; border-bottom: 1px solid #FF0000; padding-bottom: 5px;">IDA PRO</h3>
-      <div style="text-align: center; padding: 10px 0;">
-        <img src="https://img.icons8.com/color/48/000000/source-code.png" width="48px"/>
-      </div>
-      <div style="color: #FFFFFF; font-family: 'Courier New', monospace;">
-        <p style="text-align: center;">Advanced binary analysis and vulnerability discovery</p>
-        <div style="border: 1px solid #FF0000; border-radius: 4px; padding: 5px; margin-top: 10px;">
-          <code style="color: #00FF00; display: block; text-align: center;">MASTERY LEVEL: ELITE</code>
-        </div>
-      </div>
-    </td>
-    <td width="33%" style="border: 1px solid #FF0000; border-radius: 8px; padding: 10px; background-color: #0d1117; vertical-align: top;">
-      <h3 style="color: #FF0000; text-align: center; border-bottom: 1px solid #FF0000; padding-bottom: 5px;">GHIDRA</h3>
-      <div style="text-align: center; padding: 10px 0;">
-        <img src="https://img.icons8.com/color/48/000000/bug.png" width="48px"/>
-      </div>
-      <div style="color: #FFFFFF; font-family: 'Courier New', monospace;">
-        <p style="text-align: center;">Reverse engineering and exploit development</p>
-        <div style="border: 1px solid #FF0000; border-radius: 4px; padding: 5px; margin-top: 10px;">
-          <code style="color: #00FF00; display: block; text-align: center;">MASTERY LEVEL: ADVANCED</code>
-        </div>
-      </div>
-    </td>
-    <td width="33%" style="border: 1px solid #FF0000; border-radius: 8px; padding: 10px; background-color: #0d1117; vertical-align: top;">
-      <h3 style="color: #FF0000; text-align: center; border-bottom: 1px solid #FF0000; padding-bottom: 5px;">BINARY NINJA</h3>
-      <div style="text-align: center; padding: 10px 0;">
-        <img src="https://img.icons8.com/color/48/000000/binary-file.png" width="48px"/>
-      </div>
-      <div style="color: #FFFFFF; font-family: 'Courier New', monospace;">
-        <p style="text-align: center;">Custom toolchain for automated vulnerability discovery</p>
-        <div style="border: 1px solid #FF0000; border-radius: 4px; padding: 5px; margin-top: 10px;">
-          <code style="color: #00FF00; display: block; text-align: center;">MASTERY LEVEL: EXPERT</code>
-        </div>
-      </div>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="33%" align="center" style="border: 2px solid #FF0000; border-radius: 15px; background: linear-gradient(45deg, #0d1117, #1a1a1a); padding: 20px;">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60px" height="60px"/>
+<h3>🛡️ EXPLOITATION</h3>
+<p><i>Custom zero-day exploits<br/>Advanced payload delivery<br/>Kernel-level persistence</i></p>
+<img src="https://img.shields.io/badge/MASTERY-100%25-FF0000?style=flat-square"/>
+</td>
+<td width="33%" align="center" style="border: 2px solid #FF0000; border-radius: 15px; background: linear-gradient(45deg, #0d1117, #1a1a1a); padding: 20px;">
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="60px" height="60px"/>
+<h3>🔬 RESEARCH</h3>
+<p><i>Vulnerability research<br/>Reverse engineering<br/>Binary analysis</i></p>
+<img src="https://img.shields.io/badge/MASTERY-98%25-FF4500?style=flat-square"/>
+</td>
+<td width="33%" align="center" style="border: 2px solid #FF0000; border-radius: 15px; background: linear-gradient(45deg, #0d1117, #1a1a1a); padding: 20px;">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60px" height="60px"/>
+<h3>🌐 OPERATIONS</h3>
+<p><i>Command & control<br/>Data exfiltration<br/>Lateral movement</i></p>
+<img src="https://img.shields.io/badge/MASTERY-95%25-FF6600?style=flat-square"/>
+</td>
+</tr>
 </table>
+</div>
 
-<br/>
+<div align="center" style="margin: 30px 0;">
+<h2>⚡ **TECHNICAL WEAPONS CACHE** ⚡</h2>
 
-## 📡 [OPERATIONS]
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,go,js,ts,wasm,asm&theme=dark&perline=10"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=linux,windows,kali,arch,debian,redhat,aws,azure,docker,kubernetes&theme=dark&perline=10"/>
+</div>
+
+```javascript
+const ThreatProfile = {
+    codename: "YALOKGAR",
+    classification: "ELITE_HACKER",
+    
+    capabilities: {
+        exploitation: {
+            zeroday_research: "ADVANCED",
+            binary_analysis: "EXPERT", 
+            memory_corruption: "ELITE",
+            kernel_exploitation: "ADVANCED"
+        },
+        
+        stealth: {
+            rootkit_development: "EXPERT",
+            antiforensics: "ADVANCED", 
+            traffic_obfuscation: "ELITE",
+            sandbox_evasion: "EXPERT"
+        },
+        
+        operations: {
+            lateral_movement: "ADVANCED",
+            persistence: "EXPERT",
+            command_control: "ELITE", 
+            data_exfiltration: "ADVANCED"
+        }
+    },
+    
+    status: "ACTIVE_THREAT",
+    threat_level: Number.MAX_SAFE_INTEGER
+};
+```
+
+<div align="center">
+<h2>📊 **CYBER METRICS DASHBOARD** 📊</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YALOKGARua&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF4500&text_color=FFFFFF&bg_color=0d1117&border_radius=15&include_all_commits=true&line_height=28&custom_title=⚡%20EXPLOIT%20STATISTICS%20⚡" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YALOKGARua&theme=dark&background=0D1117&stroke=FF0000&ring=FF4500&fire=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF4500&dates=FFFFFF&hide_border=true&border_radius=15" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALOKGARua&layout=donut&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0d1117&border_radius=15&langs_count=8&custom_title=⚡%20ATTACK%20VECTORS%20⚡"/>
+
+</div>
+
+<div align="center" style="margin: 30px 0;">
+<img src="https://github-profile-trophy.vercel.app/?username=YALOKGARua&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies"/>
+</div>
+
+## 🎯 **[ACTIVE OPERATIONS]**
+
+<div align="center">
+<table width="100%">
+<tr>
+<td align="center" style="border: 1px solid #FF0000; border-radius: 10px; padding: 15px; background: rgba(255,0,0,0.1);">
+<h3>🔴 PROJECT SHADOWNET</h3>
+<p><b>Status:</b> <span style="color: #FF0000;">DEPLOYED</span><br/>
+<b>Target:</b> Critical Infrastructure<br/>
+<b>Progress:</b> 89% Complete</p>
+<img src="https://img.shields.io/badge/PRIORITY-CRITICAL-FF0000?style=for-the-badge"/>
+</td>
+<td align="center" style="border: 1px solid #FF4500; border-radius: 10px; padding: 15px; background: rgba(255,69,0,0.1);">
+<h3>🟠 OPERATION DARKCODE</h3>
+<p><b>Status:</b> <span style="color: #FF4500;">IN PROGRESS</span><br/>
+<b>Target:</b> Financial Networks<br/>
+<b>Progress:</b> 67% Complete</p>
+<img src="https://img.shields.io/badge/PRIORITY-HIGH-FF4500?style=for-the-badge"/>
+</td>
+<td align="center" style="border: 1px solid #FF6600; border-radius: 10px; padding: 15px; background: rgba(255,102,0,0.1);">
+<h3>🟡 MISSION GHOSTWIRE</h3>
+<p><b>Status:</b> <span style="color: #FF6600;">RECONNAISSANCE</span><br/>
+<b>Target:</b> Defense Systems<br/>
+<b>Progress:</b> 34% Complete</p>
+<img src="https://img.shields.io/badge/PRIORITY-MEDIUM-FF6600?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+</div>
 
 ```console
-root@yalokgar:~# cat /var/log/operations.log | grep -i active
+yalokgar@darknet:~$ sudo ./exploit_framework --list-capabilities
 
-[2024-05-01 03:14:07] [CRITICAL] Operation SHADOW_VEIL deployed against target CLASSIFIED
-[2024-05-15 22:37:12] [CRITICAL] Operation GHOST_PROTOCOL activated in region CLASSIFIED  
-[2024-06-10 01:03:45] [CRITICAL] Operation PHANTOM_BREACH achieved persistence on target CLASSIFIED
-[2024-06-18 19:22:33] [WARNING] Counter-measures detected during operation DARK_ENIGMA
-[2024-06-20 04:17:59] [SUCCESS] Operation CYBER_ECLIPSE completed with 100% target compromise
+[+] Loading advanced exploitation modules...
+[+] Initializing stealth protocols...
+[+] Activating neural network bypass...
+
+╔═══════════════════════════════════════════╗
+║              CAPABILITY MATRIX             ║
+╠═══════════════════════════════════════════╣
+║ ✓ Zero-day vulnerability research         ║
+║ ✓ Custom rootkit development              ║
+║ ✓ Advanced persistent threat deployment   ║
+║ ✓ Anti-forensic countermeasures          ║
+║ ✓ Polymorphic payload generation         ║
+║ ✓ Kernel-level system compromise         ║
+║ ✓ Network traffic obfuscation            ║
+║ ✓ Hardware implant programming           ║
+║ ✓ Social engineering automation          ║
+║ ✓ Cryptocurrency transaction tracking    ║
+╚═══════════════════════════════════════════╝
+
+[!] All systems operational. Ready for deployment.
 ```
 
-<div style="border: 1px solid #FF0000; border-radius: 8px; padding: 15px; background-color: #0d1117; margin-top: 20px;">
-<pre style="color: #FFFFFF; margin: 0; font-family: 'Courier New', monospace; overflow-x: auto;">
-<span style="color: #FF0000;">[TARGET STATUS REPORT]</span>
+<div align="center">
+<h2>🌐 **SECURE COMMUNICATIONS** 🌐</h2>
 
-<span style="color: #00FF00;">TARGET_001:</span> <span style="color: #FF0000;">COMPROMISED</span> // Financial Institution // Full Access Maintained
-<span style="color: #00FF00;">TARGET_002:</span> <span style="color: #FF0000;">COMPROMISED</span> // Government Infrastructure // Data Exfiltration Complete
-<span style="color: #00FF00;">TARGET_003:</span> <span style="color: #FFFF00;">IN PROGRESS</span> // Defense Contractor // Initial Access Established
-<span style="color: #00FF00;">TARGET_004:</span> <span style="color: #FFFF00;">IN PROGRESS</span> // Critical Infrastructure // Reconnaissance Phase
-<span style="color: #00FF00;">TARGET_005:</span> <span style="color: #00FF00;">PLANNED</span> // Telecommunications Provider // Operation Scheduled
-</pre>
+<a href="https://discord.gg/HUhFudC4qn" target="_blank">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://linkedin.com/in/yalokgar" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+</a>
+<a href="mailto:yalokgar@protonmail.com" target="_blank">
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://twitter.com/yalokgar" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🔐%20PGP%20KEY-4096%20RSA-FF0000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🕵️%20TOR%20ONLY-ANONYMOUS-FF4500?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/💎%20CRYPTOCURRENCY-PREFERRED-FF6600?style=for-the-badge&labelColor=000000"/>
 </div>
 
-<br/>
+<div align="center" style="margin: 40px 0;">
+<h2>⚡ **THREAT INTELLIGENCE FEED** ⚡</h2>
 
-## 🛰️ [METRICS]
+<img src="https://activity-graph.herokuapp.com/graph?username=YALOKGARua&theme=react-dark&bg_color=0d1117&color=ff0000&line=ff4500&point=ff6600&area=true&hide_border=true&custom_title=Cyber%20Activity%20Timeline" width="100%"/>
+</div>
+
+```python
+class CyberThreatActor:
+    def __init__(self):
+        self.handle = "YALOKGAR"
+        self.threat_level = float('inf')
+        self.active_campaigns = self.load_operations()
+        
+    def deploy_exploit(self, target, payload):
+        if self.validate_target(target):
+            return self.execute_payload(payload, target)
+        return False
+        
+    def maintain_persistence(self):
+        rootkit = self.generate_rootkit()
+        backdoor = self.create_backdoor()
+        return self.install_implants([rootkit, backdoor])
+        
+    def exfiltrate_data(self, target_data):
+        encrypted_data = self.encrypt_aes256(target_data)
+        return self.secure_transfer(encrypted_data)
+        
+    def evade_detection(self):
+        self.modify_signatures()
+        self.obfuscate_traffic()
+        self.clear_logs()
+        return True
+
+threat_actor = CyberThreatActor()
+```
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=YALOKGARua&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YALOKGARua&layout=compact&hide_border=true&title_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=YALOKGARua&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-  </p>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0000,25:8B0000,50:FF4500,75:DC143C,100:B22222&height=200&section=footer&text=◄●●●●●●●●●●●●●●●●►&fontColor=FFFFFF&fontSize=30&animation=blinking&fontAlign=50" width="100%"/>
 
-<div align="center" style="border: 1px solid #FF0000; border-radius: 8px; padding: 15px; background-color: #0d1117; margin-top: 20px;">
-  <h3 style="color: #FF0000; text-align: center; border-bottom: 1px solid #FF0000; padding-bottom: 5px;">ATTACK METRICS</h3>
-  <table width="100%" style="border-collapse: separate; border-spacing: 8px;">
-    <tr>
-      <td width="25%" style="border: 1px solid #FF0000; border-radius: 8px; padding: 10px; text-align: center;">
-        <div style="color: #FFFFFF; font-size: 32px; font-weight: bold;">237</div>
-        <div style="color: #FF0000; font-size: 14px;">SYSTEMS COMPROMISED</div>
-      </td>
-      <td width="25%" style="border: 1px solid #FF0000; border-radius: 8px; padding: 10px; text-align: center;">
-        <div style="color: #FFFFFF; font-size: 32px; font-weight: bold;">48</div>
-        <div style="color: #FF0000; font-size: 14px;">ZERO-DAYS DISCOVERED</div>
-      </td>
-      <td width="25%" style="border: 1px solid #FF0000; border-radius: 8px; padding: 10px; text-align: center;">
-        <div style="color: #FFFFFF; font-size: 32px; font-weight: bold;">17</div>
-        <div style="color: #FF0000; font-size: 14px;">APTs DEVELOPED</div>
-      </td>
-      <td width="25%" style="border: 1px solid #FF0000; border-radius: 8px; padding: 10px; text-align: center;">
-        <div style="color: #FFFFFF; font-size: 32px; font-weight: bold;">∞</div>
-        <div style="color: #FF0000; font-size: 14px;">THREAT LEVEL</div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-## 📡 [COMMUNICATIONS]
-
-<div align="center">
-  <a href="https://discord.gg/HUhFudC4qn">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://linkedin.com/in/yalokgar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yalokgar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/yalokgar">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&text=ACCESS_TERMINATED&fontColor=FF0000&fontSize=20&animation=blinking" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&duration=1000&pause=500&color=FF0000&center=true&vCenter=true&repeat=false&random=false&width=600&lines=CONNECTION_TERMINATED...;SYSTEM_COMPROMISED...;DATA_EXFILTRATED...;BACKDOOR_INSTALLED...;TRACES_REMOVED..." alt="Footer Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=900&size=20&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&repeat=true&width=700&lines=⚡+SYSTEM+COMPROMISED+⚡;◈+ACCESS+GRANTED+◈;►+GHOST+PROTOCOL+ACTIVE+◄;⬢+TRACES+ELIMINATED+⬢;◆+CONNECTION+TERMINATED+◆" alt="Footer Animation"/>
 </div>
 
